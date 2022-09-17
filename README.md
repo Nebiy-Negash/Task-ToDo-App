@@ -1,2 +1,5 @@
 # Task-ToDo-App
-A group project 
+A group practice
+
+
+Fell free to 
